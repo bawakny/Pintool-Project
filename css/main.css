@@ -97,18 +97,87 @@ textarea {
 
 
 
+header{
+
+width: 100%;
+background-color: #0071C5;
+height: 100px;
+ box-shadow:0px 4px 4px 0px rgba(0,0,0,0.5);
+ position:fixed;
+
+}
+
+.logo .intel{
+width:100px;
+margin-left:10%;
+margin-top:15px;
+}
 
 
+.logo .univ{
+float: right;
+margin-right: 15%;
+margin-top: 15px;
+}
+
+body{
 
 
+background-image:url("../img/background.png");
+	background-repeat: no-repeat;
+    background-attachment:fixed;
+	background-position: 0px 100px;
+	background-size:cover;
 
+}
 
+.wrapper{
 
+padding-top:100px;
+width:100%
 
+}
+.menu{
 
+background-color:rgba(128, 144, 137, 0.92);
+height:800px;
+width:15%;
+float:right;
 
+}
 
+.menu ul{
 
+list-style-type: none;
+width: 100%;
+margin: 0px;
+padding: 0px;
+margin-top: 50px;
+}
+
+.container{
+
+width:85%;
+}
+
+.container iframe {
+    height: 700px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+	margin-top:	50px;
+	display: none;
+}
+.menu li:hover{
+background-color:#E8F3F6 !important;
+}
+.menu li{
+height: 70px;
+text-align: center;
+cursor:pointer;
+padding-top:35px;
+font-size:20px;
+}
 
 
 /* ==========================================================================
