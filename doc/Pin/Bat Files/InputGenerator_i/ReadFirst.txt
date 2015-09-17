@@ -1,0 +1,7 @@
+These batch files create an input of:
+all the avialable inputs from length 1 to a given length
+with the same letter.
+for example: 
+length 1 input: a
+length 2 input: aa
+length 5 input: aaaaa 

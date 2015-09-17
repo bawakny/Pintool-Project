@@ -1,0 +1,3 @@
+these batch files create a rather simple input 
+there is an array which contains the avialable inputs the the batch file run over them and put them in the program
+the given files are programed to check all the small letters of the english alphabets.
