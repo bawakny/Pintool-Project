@@ -168,7 +168,32 @@ width:85%;
 	margin-top:	50px;
 	display: none;
 }
-.menu li:hover{
+
+.container article  {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    margin-top: 50px;
+		display: none;
+
+}
+
+.container article p{
+font-size:24px
+
+}
+
+.container article h1{
+font-size:45px;
+
+}
+
+.menu li:hover  {
+background-color:#E8F3F6 !important;
+}
+
+.selected{
 background-color:#E8F3F6 !important;
 }
 .menu li{
